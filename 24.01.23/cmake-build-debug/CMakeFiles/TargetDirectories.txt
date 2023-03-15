@@ -1,0 +1,3 @@
+F:/projektyC++/ClionProjects/24.01.23/cmake-build-debug/CMakeFiles/24_01_23.dir
+F:/projektyC++/ClionProjects/24.01.23/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/projektyC++/ClionProjects/24.01.23/cmake-build-debug/CMakeFiles/rebuild_cache.dir

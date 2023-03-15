@@ -1,0 +1,3 @@
+F:/projektyC++/ClionProjects/10.11.22WY/cmake-build-debug/CMakeFiles/10_11_22WY.dir
+F:/projektyC++/ClionProjects/10.11.22WY/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/projektyC++/ClionProjects/10.11.22WY/cmake-build-debug/CMakeFiles/rebuild_cache.dir

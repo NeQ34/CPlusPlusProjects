@@ -1,0 +1,3 @@
+C:/Users/student.WNSINOZ/CLionProjects/11.01.23/cmake-build-debug/CMakeFiles/11_01_23.dir
+C:/Users/student.WNSINOZ/CLionProjects/11.01.23/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/student.WNSINOZ/CLionProjects/11.01.23/cmake-build-debug/CMakeFiles/rebuild_cache.dir

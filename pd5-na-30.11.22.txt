@@ -1,0 +1,38 @@
+cout<<"Zad 33 w domu"<<endl;
+    /*int ilosc;
+    float suma=0,n;
+    cout<<"Ile chcesz liczb?: "<<endl;cin>>ilosc;
+    for(int i=1; i<=ilosc; i++){
+        cout<<"Podaj "<<i<<" liczbe:"<<endl;cin>>n;
+        float odwroconaLiczba = 1/n;
+        suma+=odwroconaLiczba;
+    }
+    cout<<"Suma odwróconych liczb: "<<suma<<endl;*/
+
+cout<<"zad 36 w domu"<<endl;
+    /*int n,suma;
+    cout<<"Podaj ilość liczb: "<<endl;cin>>n;
+    for(int i=1; i<n; i++){
+        if(i%2!=0){suma+=i;}
+    }
+    cout<<"Suma liczb nieparzystych do liczby "<<n<<" wynosi: "<<suma<<endl;*/
+
+cout<<"zad 38 w domu"<<endl;
+    /*int n,suma;
+    cout<<"Podaj ilość liczb: "<<endl;cin>>n;
+    for(int i=1; i<=n; i++){
+        if(i%7==0){suma+=i;}
+    }
+    cout<<"Suma liczb podzielnych przez 7 do liczby "<<n<<" wynosi: "<<suma<<endl;*/
+
+cout<<"zad 41 w domu"<<endl;
+    int n,rob,suma;
+    cout<<"Podaj ilość liczb:"<<endl;cin>>n;
+    for(int i=0; i<=n; i++){
+        rob=i%10;
+        if(rob==1||rob==5||rob==11||rob==37) {
+            suma+=i;
+            cout<<"i "<<i<< endl;
+        }
+    }
+    cout<<"Suma liczb wynosi: "<<suma<<endl;

@@ -1,0 +1,3 @@
+F:/projektyC++/ClionProjects/kolos-grA/cmake-build-debug/CMakeFiles/kolos_grA.dir
+F:/projektyC++/ClionProjects/kolos-grA/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/projektyC++/ClionProjects/kolos-grA/cmake-build-debug/CMakeFiles/rebuild_cache.dir
